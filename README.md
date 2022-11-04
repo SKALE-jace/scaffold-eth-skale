@@ -35,7 +35,7 @@ yarn start
 > in a third terminal window, 🛰 deploy your contract:
 
 ```bash
-cd scaffold-eth
+cd scaffold-eth-skale
 yarn deploy
 ```
 
