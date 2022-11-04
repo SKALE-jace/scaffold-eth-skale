@@ -81,7 +81,7 @@ module.exports = {
       },
     },
     xdai: {
-      url: "https://staging-v2.skalenodes.com/v1/whispering-turais",
+      url: "https://eth-sf.skalenodes.com/v1/hackathon-complex-easy-naos",
       accounts: {
         mnemonic: mnemonic(),
       },
@@ -121,7 +121,7 @@ module.exports = {
       },
     },
     skale: {
-      url: "https://staging-v2.skalenodes.com/v1/whispering-turais",
+      url: "https://eth-sf.skalenodes.com/v1/hackathon-complex-easy-naos",
       accounts: {
         mnemonic: mnemonic(),
       },

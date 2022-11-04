@@ -57,14 +57,14 @@ export const NETWORKS = {
     blockExplorer: "https://blockscout.com/poa/xdai/",
   },
   skale: {
-    name: "skale",
+    name: "SKALE",
     color: "#48a9a6",
-    chainId: 132333505628089,
+    chainId: 647426021,
     price: 1,
     gasPrice: 1000000000,
-    rpcUrl: "https://staging-v2.skalenodes.com/v1/whispering-turais",
+    rpcUrl: "https://eth-sf.skalenodes.com/v1/hackathon-complex-easy-naos",
     faucet: "http://hackathon.skale.network",
-    blockExplorer: "https://whispering-turais.explorer.staging-v2.skalenodes.com",
+    blockExplorer: "https://hackathon-complex-easy-naos.explorer.eth-sf.skalenodes.com",
   },
   polygon: {
     name: "polygon",

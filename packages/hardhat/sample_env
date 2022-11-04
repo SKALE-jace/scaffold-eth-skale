@@ -3,7 +3,8 @@
 
 # To use, copy this file, rename it .env, and fill in the values
 # Everything will be interpreted as a string by JavaScript even though 
-# you should not wrap values in quotation marks
+# you should not 
+wrap values in quotation marks
 
 # Infura endpoints should be passed in WITHOUT the rest of the url
 # Private keys should be pasted WITHOUT the 0x prefix
@@ -32,5 +33,10 @@ ROPSTEN_DEPLOYER_PRIV_KEY=
 GOERLI_INFURA_KEY=
 GOERLI_DEPLOYER_PRIV_KEY=
 
+# SKALE
+
+SKALE_DEPLOYER_PRIV_KEY=
+
+
 # xDai
-XDAI_DEPLOYER_PRIV_KEY= "0x11b0275c26eb8b6ce0fd130776faf5f7293e0cdbe63f6017b8b843906f60080f"
+XDAI_DEPLOYER_PRIV_KEY= 
